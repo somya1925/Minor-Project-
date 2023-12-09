@@ -1,2 +1,2 @@
-# Minor-Project-
-Stock Market Web Application 
+# Minor-Project
+###Stock Market Web Application 
